@@ -10,7 +10,7 @@
 - `CSS`: Utilizamos Flex box pois ela fornece controle sobre a direcionalidade, alinhamento, tamanho, ordem e espaçamento dos itens dentro delas. Em determinado momento do projeto utilizamos Grids pois oferecem especificações de linha e coluna mais detalhadas do que flexboxes, permitindo maior controle sobre posicionamento e espaçamento.
 
 ## 📁 Acesso ao projeto
-[Veja o projeto final em funcionamento]( https://culturama-swart.vercel.app/).
+[Veja o projeto final em funcionamento](https://culturama-nt.vercel.app/).
 ## 📷FOTOS DO PROJETO
 <div align="center">
 <img src="https://github.com/Luis-Emanuel/Culturama/blob/main/assets/img-git/gif%20MOBILE.gif?raw=true" />
